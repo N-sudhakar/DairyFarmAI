@@ -1,0 +1,15 @@
+export const nav = {
+    dashboard: { en: 'Dashboard', ta: 'டாஷ்போர்டு', hi: 'डैशबोर्ड', te: 'డాష్‌బోర్డ్', kn: 'ಡ್ಯಾಶ್‌ಬೋರ್ಡ್', ml: 'ഡാഷ്‌ബോർഡ്' },
+    cowHealth: { en: 'Cow Health', ta: 'மாடு ஆரோக்கியம்', hi: 'गाय स्वास्थ्य', te: 'ఆవు ఆరోగ్యం', kn: 'ಹಸು ಆರೋಗ್ಯ', ml: 'പശു ആരോഗ്യം' },
+    milkProduction: { en: 'Milk Production', ta: 'பால் உற்பத்தி', hi: 'दूध उत्पादन', te: 'పాల ఉత్పత్తి', kn: 'ಹಾಲು ಉತ್ಪಾದನೆ', ml: 'പാൽ ഉൽപ്പാദനം' },
+    feedManagement: { en: 'Feed Management', ta: 'தீவன மேலாண்மை', hi: 'चारा प्रबंधन', te: 'మేత నిర్వహణ', kn: 'ಮೇವು ನಿರ್ವಹಣೆ', ml: 'തീറ്റ മാനേജ്മെന്റ്' },
+    reproduction: { en: 'Reproduction', ta: 'இனப்பெருக்கம்', hi: 'प्रजनन', te: 'ప్రత్యుత్పత్తి', kn: 'ಸಂತಾನೋತ್ಪತ್ತಿ', ml: 'പ്രജനനം' },
+    financials: { en: 'Financials', ta: 'நிதி', hi: 'वित्तीय', te: 'ఆర్థికాలు', kn: 'ಹಣಕಾಸು', ml: 'ധനകാര്യം' },
+    labourSalary: { en: 'Labour & Salary', ta: 'தொழிலாளர் & சம்பளம்', hi: 'श्रमिक और वेतन', te: 'కూలి & జీతం', kn: 'ಕಾರ್ಮಿಕ & ವೇತನ', ml: 'തൊഴിൽ & ശമ്പളം' },
+    alerts: { en: 'Alerts', ta: 'எச்சரிக்கைகள்', hi: 'अलर्ट', te: 'హెచ్చరికలు', kn: 'ಎಚ್ಚರಿಕೆಗಳು', ml: 'അലേർട്ടുകൾ' },
+    aiInsights: { en: 'AI Insights', ta: 'AI நுண்ணறிவு', hi: 'AI अंतर्दृष्टि', te: 'AI అంతర్దృష్టులు', kn: 'AI ಒಳನೋಟಗಳು', ml: 'AI ഇൻസൈറ്റ്സ്' },
+    overview: { en: 'OVERVIEW', ta: 'கண்ணோட்டம்', hi: 'अवलोकन', te: 'అవలోకనం', kn: 'ಅವಲೋಕನ', ml: 'അവലോകനം' },
+    monitoring: { en: 'MONITORING', ta: 'கண்காணிப்பு', hi: 'निगरानी', te: 'పర్యవేక్షణ', kn: 'ಮೇಲ್ವಿಚಾರಣೆ', ml: 'നിരീക്ഷണം' },
+    intelligence: { en: 'INTELLIGENCE', ta: 'நுண்ணறிவு', hi: 'बुद्धिमत्ता', te: 'తెలివితేటలు', kn: 'ಬುದ್ಧಿಮತ್ತೆ', ml: 'ഇന്റലിജൻസ്' },
+    smartFarmPlatform: { en: 'Smart Farm Platform', ta: 'ஸ்மார்ட் பண்ணை', hi: 'स्मार्ट फार्म', te: 'స్మార్ట్ ఫార్మ్', kn: 'ಸ್ಮಾರ್ಟ್ ಫಾರ್ಮ್', ml: 'സ്മാർട്ട് ഫാം' },
+};
